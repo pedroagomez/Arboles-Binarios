@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697460867 source:c:\users\usuario\desktop\arbolesbinarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700062371 source:c:\users\usuario\desktop\c\segundo cuatrimestre\guias 2do parcial\arbolesbinarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
